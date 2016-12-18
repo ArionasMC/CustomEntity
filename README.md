@@ -1,7 +1,7 @@
 # CustomEntity
 A class to create easily simple entities for Spigot.
 
-Tutorial
+Tutorial (You can also find a tutorial here: https://www.spigotmc.org/threads/create-simple-custom-mobs-without-nms.201465/)
 
 Ok let's start.
 
