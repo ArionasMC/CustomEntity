@@ -19,7 +19,7 @@ customZombie.setHandItem(new ItemStack(Material.IRON_AXE));
 And for the end we should register our CustomEntity's listener.
 On Main file on 'onEnable' method add
 ```Java
-getServer().getPluginManager().registerEvents(customZombie, this);
+getServer().getPluginManager().registerEvents(customZombie, myPlugin);
 ```
 
 And you have just created a custom zombie !
